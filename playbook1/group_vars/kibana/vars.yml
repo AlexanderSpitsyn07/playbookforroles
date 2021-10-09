@@ -1,0 +1,4 @@
+---
+  kibana_version: "7.15.0"
+  kibana_home: "/opt/kibana/kibana-7.15.0"
+  tags: last version
